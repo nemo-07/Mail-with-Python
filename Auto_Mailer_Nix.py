@@ -21,4 +21,4 @@ outlook.send(
 
 #Do add needed HTML tags and indentations, along with inline CSS
 
-print('Sent Mails!') #conformation
+print('Sent Mails!') #confirmation
